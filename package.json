@@ -1,0 +1,12 @@
+{
+  "name": "new-jest-retries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^23.3.0"
+  }
+}
